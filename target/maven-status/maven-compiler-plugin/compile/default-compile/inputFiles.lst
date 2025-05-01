@@ -1,0 +1,16 @@
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\config\CorsConfig.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\config\JWTAuthFilter.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\service\SesionService.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\service\JWTUtils.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\controller\UserManagementController.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\entity\OurUsers.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\repository\Sesionrepo.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\dto\SesionDTO.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\repository\UsersRepo.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\UsersmanagementsystemApplication.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\service\UsersManagementService.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\entity\Sesion.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\service\OurUserDetailsService.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\controller\SesionController.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\config\SecurityConfig.java
+C:\daniel\sw2\back-end\src\main\java\com\phegondev\usersmanagementsystem\dto\ReqRes.java
